@@ -1,0 +1,6 @@
+{
+  "VhdlStandard": "93c",
+  "simulator": "GHDL",
+  "SimulationStopTime": "1ms",
+  "WaveOutputFormat": "VCD"
+}

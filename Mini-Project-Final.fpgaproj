@@ -1,0 +1,35 @@
+{
+  "include": [
+    "*.vhd",
+    "*.vhdl",
+    "*.v",
+    "*.vcd",
+    "vhdl_ls.toml",
+    "*.pcf",
+    "*.xdc"
+  ],
+  "exclude": [
+    "build"
+  ],
+  "loader": "openFpgaLoader",
+  "toolchain": "yosys",
+  "ossCad": {
+    "constraintFile": null
+  },
+  "testBenches": [
+    "sevensegmentdecoderTestbench.vhd",
+    "PulserTestbench.vhd",
+    "Counter4bitTestbench.vhd",
+    "Counter12bit_testbench.vhd",
+    "DFFR_Testbench.vhd",
+    "DisplayHandler_Testbench.vhd",
+    "FlashLed_Testbench.vhd",
+    "GameHandler_Testbench.vhd",
+    "hexDecoderTestbench.vhd",
+    "IterationHandler_Testbench.vhd",
+    "PlayerHandler_Testbench.vhd",
+    "Main_testbench.vhd"
+  ],
+  "vhdlStandard": "93c",
+  "topEntity": "Main.vhd"
+}
