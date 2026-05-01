@@ -1,0 +1,52 @@
+{
+  "OpenSignals": [
+    {
+      "Id": "\u0022",
+      "DataType": 0,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    },
+    {
+      "Id": "#",
+      "DataType": 4,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    },
+    {
+      "Id": "$",
+      "DataType": 2,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    },
+    {
+      "Id": "%",
+      "DataType": 1,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    },
+    {
+      "Id": "\u0026",
+      "DataType": 1,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    },
+    {
+      "Id": "\u0027",
+      "DataType": 1,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    },
+    {
+      "Id": "(",
+      "DataType": 1,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    },
+    {
+      "Id": ")",
+      "DataType": 1,
+      "AutomaticFixedPointShift": false,
+      "FixedPointShift": 0
+    }
+  ]
+}

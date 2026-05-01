@@ -1,0 +1,5 @@
+{
+  "VhdlStandard": "93c",
+  "simulator": "GHDL",
+  "SimulationStopTime": "250us"
+}
